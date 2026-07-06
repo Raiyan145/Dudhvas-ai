@@ -1,0 +1,9 @@
+{
+  "name": "dudhvas-ai",
+  "version": "1.0.0",
+  "description": "দুধভাস AI — Gemini API দিয়ে তৈরি একটা স্টাডি অ্যাসিস্ট্যান্ট যা লেখা ও ছবি সহজ করে বুঝিয়ে দেয়।",
+  "private": true,
+  "engines": {
+    "node": ">=18"
+  }
+}
